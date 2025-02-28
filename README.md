@@ -50,14 +50,6 @@
 ## **🏆 GitHub Achievements**
 ![](https://github-profile-trophy.vercel.app/?username=lavanya1621&theme=dracula&no-frame=true&margin-w=10)  
 
----
-
-## **📫 Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF4081.svg?style=for-the-badge&logo=web&logoColor=white)](https://YOUR-PORTFOLIO.com)  
-
----
 
 [![](https://visitcount.itsvg.in/api?id=lavanya1621&icon=0&color=0)](https://visitcount.itsvg.in)  
 
