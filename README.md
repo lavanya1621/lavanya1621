@@ -35,7 +35,7 @@
 🔹 A **Cold Email Generator** that creates professional, personalized emails using AI.  
 🔹 Tailored for different industries, roles, and use cases.  
 🔹 Built with **LLMs and prompt engineering techniques** for high-quality outputs.  
-🔹 **Tech Used:** LangChain | ChatGroq  
+🔹 **Tech Used:** LangChain | ChatGroq | ChromaDB 
 📌 **Repo:** [Cold-Email-Generator](https://github.com/lavanya1621/Cold-Email-Generator)  
 
 ---
